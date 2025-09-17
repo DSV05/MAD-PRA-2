@@ -5,4 +5,5 @@ Create Activity to display “Hello World” in TextView in the center of Activi
 **Study**: TextView and its properties, Toast Message, Snackbar Message, Android in-built resources like color, Activity Life Cycle, Log Message in logcat, Properties of Layout ConstraintLayout, Generate id of TextView.
 
 **Output**:
-<img width="1440" height="815" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/e8c5306b-dfae-48c8-91e7-6acd19109561" />
+<img width="1440" height="816" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/3bce2ca3-977b-4d46-abc9-7040986e1709" />
+
